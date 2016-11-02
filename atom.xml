@@ -1,58 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Cwivan</title>
+  <subtitle>鱼丸Ivan的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-11-02T09:18:18.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://cwivan.cn/"/>
+  <updated>2016-11-02T15:03:11.000Z</updated>
+  <id>http://cwivan.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ivan</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2016/11/02/test/"/>
-    <id>http://yoursite.com/2016/11/02/test/</id>
-    <published>2016-11-02T09:18:18.000Z</published>
-    <updated>2016-11-02T09:18:18.000Z</updated>
+    <title>RESTful架构理解</title>
+    <link href="http://cwivan.cn/2016/11/02/RESTful%E6%9E%B6%E6%9E%84%E7%90%86%E8%A7%A3/"/>
+    <id>http://cwivan.cn/2016/11/02/RESTful架构理解/</id>
+    <published>2016-11-02T15:01:42.000Z</published>
+    <updated>2016-11-02T15:03:11.000Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/10/26/hello-world/"/>
-    <id>http://yoursite.com/2016/10/26/hello-world/</id>
-    <published>2016-10-26T01:06:25.000Z</published>
-    <updated>2016-10-26T01:06:25.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>RESTful is </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;RESTful is &lt;/p&gt;
+
     
     </summary>
     
+      <category term="编程" scheme="http://cwivan.cn/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="架构" scheme="http://cwivan.cn/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+      <category term="RESTful" scheme="http://cwivan.cn/tags/RESTful/"/>
     
   </entry>
   
